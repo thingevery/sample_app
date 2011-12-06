@@ -1,3 +1,6 @@
+# This file contains tests for pages in the Pages controller.
+# These tests are written for RSpec instead of the default Test::Unit framework.
+
 require 'spec_helper'
 
 describe PagesController do
